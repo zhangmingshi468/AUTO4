@@ -7,7 +7,7 @@
 
 # Local IPTV channel list
 # Format: channel_name|stream_url
-央视,#genre#
+📺央视频道,#genre#
 CCTV1,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/CCTV-1HD
 CCTV2,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/CCTV-2HD
 CCTV3,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/CCTV-3
