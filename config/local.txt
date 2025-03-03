@@ -24,7 +24,7 @@ CCTV13,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd
 CCTV14,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/CCTV-14HD
 CCTV15,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/CCTV-15HD
 CCTV17,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/CCTV-17HD
-卫视,#genre#
+📡卫视频道,#genre#
 安徽卫视,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/AHWS-HD
 北京卫视,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/BJWS-HD
 重庆卫视,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/CQWS-HD
