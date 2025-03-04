@@ -1,6 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+https://raw.githubusercontent.com/zhangmingshi468/AUTO4/refs/heads/main/config/local.txt
 http://3501776.xyz:35455/tv.m3u
 https://live.iptv365.org/live.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
