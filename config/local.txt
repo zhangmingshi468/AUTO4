@@ -1,12 +1,3 @@
-# 本地IPTV频道列表
-# 格式: 频道名称|流地址
-# 这是本地源列表，一行一个源，格式为：频道名称,接口地址
-# 支持设置白名单：接口后添加$!
-# The local source list, one line per source, format: channel name, interface address
-# Support setting whitelist: add $! after the interface
-
-# Local IPTV channel list
-# Format: channel_name|stream_url
 📺央视频道,#genre#
 CCTV1,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/CCTV-1HD
 CCTV2,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/CCTV-2HD
@@ -24,6 +15,7 @@ CCTV13,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd
 CCTV14,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/CCTV-14HD
 CCTV15,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/CCTV-15HD
 CCTV17,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/CCTV-17HD
+
 📡卫视频道,#genre#
 安徽卫视,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/AHWS-HD
 北京卫视,http://playerlive-gd.skysrt.iptv.xin:2052/api-playerlive-sx.skysrt.com/gd/BJWS-HD
